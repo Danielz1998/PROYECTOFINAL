@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519276038 source:c:\users\marlon\desktop\proyecto_s0_2.0\main.cpp
+	<iostream>
+	"Lista.h"
+	<conio.h>
+	<stdlib.h>
+
+1519273542 c:\users\marlon\desktop\proyecto_s0_2.0\include\lista.h
+	<iostream>
+
+1519275161 source:c:\users\marlon\desktop\proyecto_s0_2.0\src\lista.cpp
+	"Lista.h"
+
